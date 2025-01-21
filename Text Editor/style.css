@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+button{
+    width: 60px;
+    height: 35px;
+    outline: none;
+    border: 1px solid;
+}
+
+.big{
+font-size: 50px;
+}
+
+.small{
+    font-size: 12px;
+}
